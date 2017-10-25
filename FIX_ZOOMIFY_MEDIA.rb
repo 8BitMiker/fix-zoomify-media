@@ -39,6 +39,27 @@ ARGF.each(nil) do |xml|
 
 end
 
+=pod
+
+  Thanks for meeting with me last week.  The following are a list of slides where the "Hotspot" message appears:
+    
+    Slide 004 (GP) - Acute Appendicitis
+    Slide 006 (GP) - Liver Cirrohsis
+    Slide 009 (GP) - Leiomyoma
+    Slide 010 (GP) - Leiomyosarcoma
+    Slide 011 (GP) - Fibroadenoma
+    Slide 012 (GP- Carcinoma, Breast
+    Slide 013 (GP) - Crohn's Disease
+    Slide 014 (GP) - Adenocarcinoma, Colon
+    Slide 017 (GP) - Myocardial infarction,healed
+    Slide 021 (GP) - Squamous cell carcinoma, lung
+    Slide 022 (GP) - Osteoarthritis, femur
+    
+    There is also one slide from the Histology slide box which is affected:
+    Slide 001 (OH) Sagittal section of embryo head (9 weeks)
+
+=cut
+
 # "Database" of arrows below
 __END__
 arrowblackdown.png
